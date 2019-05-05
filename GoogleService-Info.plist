@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1051545638164-1mp0t8ksh7du526cd0c8bu9qmu0377lf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1051545638164-1mp0t8ksh7du526cd0c8bu9qmu0377lf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDisW58ejw0RAFogveYxmXOEce25XYDP_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1051545638164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Oasys.MyAppWithPod</string>
+	<key>PROJECT_ID</key>
+	<string>myappwithpods</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myappwithpods.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1051545638164:ios:cd769bf8fe0b9ec7</string>
+	<key>DATABASE_URL</key>
+	<string>https://myappwithpods.firebaseio.com</string>
+</dict>
+</plist>
